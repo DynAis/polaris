@@ -1,1 +1,1 @@
-# project-polaris
+# Project Polaris (PP)
